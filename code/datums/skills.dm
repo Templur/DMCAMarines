@@ -207,7 +207,7 @@
 	construction = SKILL_CONSTRUCTION_PLASTEEL
 	leadership = SKILL_LEAD_EXPERT
 	medical = SKILL_MEDICAL_MEDIC
-
+        powerloader = SKILL_POWERLOADER_TRAINED
 
 /datum/skills/pilot
 	name = "Pilot Officer"
